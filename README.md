@@ -21,4 +21,5 @@ The meaning of the columns in the list is the following:
 | **USES**  | When a tool makes use internally of another tool in the list, this column indicates the name of the tool used. |
 | **COMMENTS**   | Any additional comments. |
 | **INCLUDED IN**   | Date when the tool was included in the list. |
-| **INCLUDED BY**   | Name of the person that proposed to include the tool in the list. When the tool is also in the W3C list, the value is "W3C List". |
+| **LAST VERSION**   | Date of the latest version of the tool. |
+| **OTHER TYPES**   | When a tool is offered in different versions as tools of different type. |
